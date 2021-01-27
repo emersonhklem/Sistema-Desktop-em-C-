@@ -1,0 +1,16 @@
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\bin\Debug\Database1.mdf
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\bin\Debug\Database1_log.ldf
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\bin\Debug\App_usando_acces.exe.config
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\bin\Debug\App_usando_acces.exe
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\bin\Debug\App_usando_acces.pdb
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\obj\Debug\atividade_access.csprojAssemblyReference.cache
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\obj\Debug\App_usando_acces.Form1.resources
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\obj\Debug\App_usando_acces.frmalterar.resources
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\obj\Debug\App_usando_acces.frmexcluir.resources
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\obj\Debug\App_usando_acces.frmIncluir.resources
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\obj\Debug\App_usando_acces.frmprocurar.resources
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\obj\Debug\App_usando_acces.Properties.Resources.resources
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\obj\Debug\atividade_access.csproj.GenerateResource.cache
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\obj\Debug\atividade_access.csproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\obj\Debug\App_usando_acces.exe
+C:\Users\emers\OneDrive\Área de Trabalho\App_usando_acces\App_usando_acces\obj\Debug\App_usando_acces.pdb
